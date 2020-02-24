@@ -5,3 +5,5 @@ One more line of text
 Second new line
 
 Third line to be reset in the future
+
+Forth line to commit
