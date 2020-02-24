@@ -1,3 +1,6 @@
 New file for testing GIT
 
 One more line of text
+
+Second new line
+
