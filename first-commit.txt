@@ -1,3 +1,2 @@
 cofanie do poprzedniej wersji o jeden commit
 
-dodanie lini, którą będę chciał usunąć
