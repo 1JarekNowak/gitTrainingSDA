@@ -6,4 +6,4 @@ Second new line
 
 Third line to be reset in the future
 
-Forth line to commit
+Fith line to commit
